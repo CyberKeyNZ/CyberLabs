@@ -1,1 +1,2 @@
-"Rannmap -sP 192.168.1.0/24 in Udemy lab-mapped my network!"
+"Ran nmap -sP 192.168.1.0/24 in Udemy lab-mapped my network!"
+
